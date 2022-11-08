@@ -16,6 +16,8 @@ I worked on the following projects:
 
 2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: JavaScript, Node.js, Express.js, JSON, PSQL, Sequelize, HTML 5, React.js, Redux.js, CSS, Heroku and Vercel.
 
+https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
+
 Both projects github links are pinned below, where you may see additional detail on the readme documents, including some pics.
 
 I am currently looking for a job where I can add value and continue my career path. Do not hesitate to contact me through the following 📫:
