@@ -10,7 +10,15 @@ I decided to redirect all my efforts and skills to programming, which is my new 
 
 JavaScript | NodeJs | Express | SQL | MongoDB | React | Redux | Firebase | HTML5 | CSS3 | Chakra UI | SCRUM | GIT | Heroku | Vercel | Railway.
 
-Now looking for a job where I can add value and continue my career path. Do not hesitate to contact me through the following 📫:
+I worked on the following projects:
+
+1) KINEMA: Kinema is a movie and tv show streaming website built with: JavaScript, Node.js, Express.js, JSON, Mongo Db, HTML 5, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Toastify, emailJS, Railway and Vercel; and
+
+2) GAMING & BEYOND: G&B is a single page application for videogames content built with: JavaScript, Node.js, Express.js, JSON, PSQL, Sequelize, HTML 5, React.js, Redux.js, CSS, Heroku and Vercel.
+
+Both projects links are pinned below, where you may see additional detail on the readme documents, including some pics.
+
+I am currently looking for a job where I can add value and continue my career path. Do not hesitate to contact me through the following 📫:
 
 Gmail: fedeirar@gmail.com
 
