@@ -16,4 +16,14 @@ Gmail: fedeirar@gmail.com
 
 Whatsapp: +54 1567887879
 
+<p align="left">
+<a href="https://www.linkedin.com/in/federico-irarr%C3%A1zaval-314b89a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico irarrázaval" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fedeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federico irarrázaval" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fede.irarrazaval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="federico irarrázaval" height="30" width="40" /></a>
+</p>
+
 Federico Irarrazaval
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeira&show_icons=true&locale=en&layout=compact" alt="fedeira" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedeira&show_icons=true&locale=en" alt="fedeira" /></p>
