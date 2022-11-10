@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-I am proactive and self disciplined.
+I am proactive and disciplined.
 
 For the last 7 years I have dedicated my time in specializaing on employment law and advising local and foreign companies on such matters. This helped me further develop these qualities as well as aquiring new ones, such as an advance level of english, a client-oriented mindset, and the ability to solve problems, transmit knowledge and the ability to work cooperatively with others.
 
