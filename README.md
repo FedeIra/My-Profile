@@ -8,7 +8,7 @@ For the last 7 years I have dedicated my time in specializaing on employment law
 
 I decided to redirect all my efforts and skills to programming, which is my new found passion. Currently, I managed to overcome my first obstacle, concluding Henry Web Developer Bootcamp. This helped me aquire the following tools which will help me to continue on with my studies: 
 
-JavaScript | NodeJs | Express | SQL | MongoDB | React | Redux | Firebase | HTML5 | CSS3 | Chakra UI | SCRUM | GIT | Heroku | Vercel | Railway.
+JavaScript | NodeJs | Express | SQL | MongoDB | Mongoose | PostgreSQL | Sequelize | React | Redux | Firebase | HTML5 | CSS3 | Chakra UI | Bootstrap | SCRUM | GIT | Heroku | Vercel | Railway.
 
 I worked on the following projects:
 
