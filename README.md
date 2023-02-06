@@ -26,6 +26,8 @@ Both projects github links are pinned below, where you may see additional detail
 
 5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with JavaScript, Node.Js, API, express.js, HTML 5, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
+5) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML 5, and CSS.
+
 I am currently looking for a job where I can add value and continue my career path. Do not hesitate to contact me through the following 📫:
 
 Gmail: fedeirar@gmail.com
