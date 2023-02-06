@@ -8,17 +8,23 @@ For the last 7 years I have dedicated my time in specializaing on employment law
 
 I decided to redirect all my efforts and skills to programming, which is my new found passion. Currently, I managed to overcome my first obstacle, concluding Henry Web Developer Bootcamp. This helped me aquire the following tools which will help me to continue on with my studies: 
 
-JavaScript | NodeJs | Express | SQL | MongoDB | Mongoose | PostgreSQL | Sequelize | React | Redux | Firebase | Email.js | HTML5 | CSS3 | Chakra UI | Bootstrap | SCRUM | GIT | Heroku | Vercel | Railway.
+JavaScript | NodeJs | Express | SQL | MongoDB | Mongoose | PostgreSQL | Sequelize | React | Redux | Firebase | Email.js | HTML5 | CSS3 | Chakra UI | Bootstrap | SCRUM | GIT | Heroku | Vercel | Railway | Shopify.
 
 I worked on the following projects:
 
 1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming website built with: JavaScript, Node.js, Express.js, JSON, Mongo Db, HTML 5, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Toastify, emailJS, Railway and Vercel; and
 
-2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: JavaScript, Node.js, Express.js, JSON, PSQL, Sequelize, HTML 5, React.js, Redux.js, CSS, Heroku and Vercel.
+2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: JavaScript, Node.js, Express.js, JSON, PSQL, Sequelize, HTML 5, React.js, Redux.js, CSS, Railway and Vercel.
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
 Both projects github links are pinned below, where you may see additional detail on the readme documents, including some pics.
+
+3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with JavaScript, JSON, HTML 5, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+
+4) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with JavaScript, HTML 5, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+
+5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with JavaScript, Node.Js, API, express.js, HTML 5, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 I am currently looking for a job where I can add value and continue my career path. Do not hesitate to contact me through the following 📫:
 
