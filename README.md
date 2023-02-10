@@ -1,12 +1,15 @@
-![Federico Irarrazaval (4)](https://user-images.githubusercontent.com/93743323/200655183-7cde57c7-154e-4136-87c4-a9b1aa0b6475.png)
+![Federico Irarrazaval](https://user-images.githubusercontent.com/93743323/218120796-1eac1135-7470-4f59-ada4-03579bff25b7.png)
 
 Hi there 👋,
+
 
 I am proactive and self-disciplined with 7 years of experience as a lawyer in an international firm. After discovering my passion for web development, I couldn’t get enough. I graduated as Full Stack Web Developer 🧑‍💻 in Henry's bootcamp and worked on several websites during the last year. I'm looking forward for a new role where I can bring that passion.
 
 Skills and technologies:
 🖥️Back-end: JavaScript | Node.js | Express.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize;
+
 📱Front-end: React | Redux | HTML | CSS | Chakra UI | Bootstrap | Responsive;
+
 🛠️Others: SCRUM | Trello | GIT | Heroku | Vercel | Railway | Shopify | Firebase | Email.js | Canva.
 
 I worked on the following projects:
