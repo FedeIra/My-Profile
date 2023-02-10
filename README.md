@@ -6,6 +6,7 @@ Hi there 👋,
 I am proactive and self-disciplined with 7 years of experience as a lawyer in an international firm. After discovering my passion for web development, I couldn’t get enough. I graduated as Full Stack Web Developer 🧑‍💻 in Henry's bootcamp and worked on several websites during the last year. I'm looking forward for a new role where I can bring that passion.
 
 Skills and technologies:
+
 🖥️Back-end: JavaScript | Node.js | Express.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize;
 
 📱Front-end: React | Redux | HTML | CSS | Chakra UI | Bootstrap | Responsive;
