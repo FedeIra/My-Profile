@@ -13,7 +13,7 @@ Skills and technologies:
 
 🛠️Others: SCRUM | Trello | GIT | Heroku | Vercel | Railway | Shopify | Firebase | Email.js | Canva.
 
-I worked on the following projects:
+Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project" and are the following:
 
 1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming platform built with: Javascript, Node.js, Express.js, JSON, API's, Mongo DB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Toastify, email.js, Railway and Vercel;
 
@@ -29,7 +29,9 @@ Both projects github links are pinned below, where you may see additional detail
 
 5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, JSON, API, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
-5) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS.
+6) LQUIDATION: built with python. A simple project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+
+7) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
 
 Feel free to contact me directly at fedeirar@gmail.com / + 54 9 1167887879 and/or check out my projects at 👜 https://portfolio-fedeira.vercel.app
 
