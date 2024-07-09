@@ -43,7 +43,11 @@ Please note that all my repositories ending with "Learning" are not projects, bu
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
-3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+3) PORFOLIO (https://portfo
+
+https://github.com/FedeIra/My-Profile/assets/93743323/43e36c3f-350b-4626-b44a-086a669c7637
+
+lio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 4) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
@@ -55,7 +59,7 @@ https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-
 
 8) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
 
-Ypou can check out my projects in my portolfio 👜 https://portfolio-fedeira.vercel.app
+You can check out my projects in my portolfio 👜 https://portfolio-fedeira.vercel.app
 
 ### Contact Me
 - 📧 Email: [fedeirar@gmail.com](mailto:fedeirar@gmail.com)
