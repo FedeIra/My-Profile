@@ -1,4 +1,4 @@
-![image](https://github.com/FedeIra/My-Profile/assets/93743323/78259b37-3501-42d5-91e4-3b1d133c1fa6)
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/16fdaea4-4d87-4c03-9a9b-2ec4fd43a46f)
 
 ## Hi there 👋, I'm Federico Irarrazaval
 
@@ -11,7 +11,7 @@ I am a dedicated Full Stack Web Developer with a focus on delivering high-qualit
 
 📱**Front-end**: React | Redux | HTML | CSS | Chakra UI | Bootstrap;
 
-**Cloud services**: AWS S3 | Firebase | MongoDB Atlas
+☁️**Cloud services**: AWS S3 | Firebase | MongoDB Atlas
 
 🛠️**Development tools**: GIT | GitHub | Vercel | Railway | Heroku | VTEX.IO | Email.js | SCRUM | Trello | JIRA | Canva
   - **Version Control:** Git, GitHub
@@ -20,7 +20,7 @@ I am a dedicated Full Stack Web Developer with a focus on delivering high-qualit
   - **Utilities:** Email.js, Canva
   - **Project Management:** SCRUM, Trello and JIRA
 
-**Languages**: Spanish (native) and English (C2 Proficient).
+🎙️**Languages**: Spanish (native) and English (C2 Proficient).
 
 ### Projects
 Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project" and are the following:
