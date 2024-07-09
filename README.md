@@ -79,6 +79,9 @@ You can check out my projects in my portolfio 👜 https://portfolio-fedeira.ver
 </p>
 
 ### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeira&show_icons=true&locale=en&layout=compact" alt="fedeira" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedeira&show_icons=true&locale=en" alt="fedeira" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedeira&layout=compact&langs_count=8&theme=algolia" alt="fedeira" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedeira&show_icons=true&theme=algolia" alt="fedeira" />
+</p>
