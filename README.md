@@ -1,4 +1,4 @@
-![Federico Irarrazaval](https://user-images.githubusercontent.com/93743323/218120796-1eac1135-7470-4f59-ada4-03579bff25b7.png)
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/78259b37-3501-42d5-91e4-3b1d133c1fa6)
 
 ## Hi there 👋, I'm Federico Irarrazaval
 
@@ -7,20 +7,20 @@ I am a dedicated Full Stack Web Developer with a focus on delivering high-qualit
 
 ### Skills and technologies:
 
-🖥️Back-end: JavaScript | Typescript | Node.js | Express.js | Fastify | Koa.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize;
+🖥️**Back-end**: JavaScript | Typescript | Node.js | Express.js | Fastify | Koa.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize;
 
-📱Front-end: React | Redux | HTML | CSS | Chakra UI | Bootstrap;
+📱**Front-end**: React | Redux | HTML | CSS | Chakra UI | Bootstrap;
 
-Cloud services: AWS S3 | Firebase | MongoDB Atlas
+**Cloud services**: AWS S3 | Firebase | MongoDB Atlas
 
-🛠️Development tools: GIT | GitHub | Vercel | Railway | Heroku | VTEX.IO | Email.js | SCRUM | Trello | JIRA | Canva
+🛠️**Development tools**: GIT | GitHub | Vercel | Railway | Heroku | VTEX.IO | Email.js | SCRUM | Trello | JIRA | Canva
   - **Version Control:** Git, GitHub
   - **Deployment Platforms:** Vercel, Railway and Heroku
   - **E-commerce:** VTEX.IO
   - **Utilities:** Email.js, Canva
   - **Project Management:** SCRUM, Trello and JIRA
 
-Languages: Spanish (native) and English (C2 Proficient).
+**Languages**: Spanish (native) and English (C2 Proficient).
 
 ### Projects
 Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project" and are the following:
