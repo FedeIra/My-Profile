@@ -13,11 +13,11 @@ I am a passionate Full Stack Web Developer specializing in backend development w
 
 ☁️**Cloud services**: AWS S3 | Firebase | MongoDB Atlas
 
-🛠️**Development tools**: GIT | GitHub | Vercel | Railway | Heroku | VTEX.IO | Email.js | SCRUM | Trello | JIRA | Canva
+🛠️**Development tools**:
   - **Version Control:** Git, GitHub
   - **Deployment Platforms:** Vercel, Railway and Heroku
-  - **E-commerce:** VTEX.IO
-  - **Utilities:** Email.js, Canva
+  - **E-commerce platforms:** VTEX.IO
+  - **Utilities:** Docker, Email.js, Canva
   - **Project Management:** SCRUM, Trello and JIRA
 
 🎙️**Languages**: Spanish (native) and English (C2 Proficient).
@@ -93,6 +93,3 @@ You can check out my projects in my portolfio 👜 **([portfolio](https://portfo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fedeira&show_icons=true&theme=algolia" alt="fedeira" />
 </p>
-
-### Coding Activity
-[![wakatime](https://wakatime.com/badge/user/fedeirar@gmail.com.svg)](https://wakatime.com/@fedeirar@gmail.com)
