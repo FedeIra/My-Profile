@@ -23,7 +23,7 @@ I am a passionate Full Stack Web Developer specializing in backend development w
 🎙️**Languages**: Spanish (native) and English (C2 Proficient).
 
 ### Experience
-![image](https://github.com/FedeIra/My-Profile/assets/93743323/68e20e60-ada3-4045-ad01-d46255646a4f) ITGLOBERS (February 2023 - Present)
+ITGLOBERS (February 2023 - Present)
 
 Back end developer for marketplaces and e-commerce projects working with Typescript, Node.js, Express.js, Koa.js, API's, and VTEX IO. Notable projects include:
 
@@ -35,28 +35,33 @@ Back end developer for marketplaces and e-commerce projects working with Typescr
 - Development of a service to synchronize order statuses between the e-commerce platform and the client's ERP system.
 
 ### Personal Projects
-Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project" and are the following:
+Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project". Some of my fullstack projects are the following:
 
-1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming platform built with: Javascript, Node.js, Express.js, JSON, API's, Mongo DB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Toastify, email.js, Railway and Vercel;
+1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming platform built with: Javascript, Node.js, Express.js, MongoDB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Email.js, Heroku//Railway and Vercel;
 
-2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: Javascript, Node.js, Express.js, JSON, API's, postgreSQL, Sequelize, HTML, React.js, Redux.js, CSS, Railway and Vercel.
+2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: Javascript, Typescript Node.js, Express.js//Fastify, postgreSQL and Sequelize// MongoDB and Moongose, HTML, React.js, Redux.js, CSS, Heroku//Railway and Vercel.
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
-Both projects github links are pinned below, where you may see additional detail on the readme documents, including some pics.
-
-3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with Javascript, JSON, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 4) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
-5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, JSON, API, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
-6) LQUIDATION: built with python. A simple project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+6) ONLINE RESUME (http://fedeira.xyz/): built with AWS S3, AWS Route53, HTML and CSS.
 
-7) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+7) LIQUIDATION: built with python. A simple project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+
+8) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+
+Ypou can check out my projects in my portolfio 👜 https://portfolio-fedeira.vercel.app
 
 ### Contact Me
-Feel free to contact me directly at fedeirar@gmail.com / + 54 9 1167887879 and/or check out my projects at 👜 https://portfolio-fedeira.vercel.app
+- 📧 Email: [fedeirar@gmail.com](mailto:fedeirar@gmail.com)
+- 📱 Phone: +54 9 1167887879
+
+
 
 ### Connect with Me
 <p align="left">
