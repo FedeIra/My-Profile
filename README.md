@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Federico Irarrazaval
 
 ### About Me
-I am a dedicated Full Stack Web Developer with a focus on delivering high-quality, responsive, and dynamic products.
+I am a passionate Full Stack Web Developer specializing in backend development with Node.js. Over the past year and a half, I've honed my skills in creating high-quality, responsive, and dynamic products. While my expertise lies in backend technologies, I also have a strong foundation in frontend development with React, ensuring a seamless and complete development experience.
 
 ### Skills and technologies:
 
@@ -22,7 +22,18 @@ I am a dedicated Full Stack Web Developer with a focus on delivering high-qualit
 
 🎙️**Languages**: Spanish (native) and English (C2 Proficient).
 
-### Projects
+### Experience
+ITGLOBERS (February 2023 - Present)
+Back end developer for marketplaces and e-commerce projects working with Typescript, Node.js, Express.js, Koa.js, API's, and VTEX IO. Notable projects include:
+
+- Design and development of a solution for data synchronization between two storage systems.
+- Integration of JIRA with Google Forms for workflow automation.
+- Development of integration solutions between VTEX e-commerce and payment provider systems. Contributed as a back-end developer and leader of the payments development team.
+- Audit of architecture, integrations, and custom applications for e-commerce optimization.
+- Development and migration to documents uploading using Google Cloud Storage buckets with PHP.
+- Development of a service to synchronize order statuses between the e-commerce platform and the client's ERP system.
+
+### Personal Projects
 Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project" and are the following:
 
 1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming platform built with: Javascript, Node.js, Express.js, JSON, API's, Mongo DB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Toastify, email.js, Railway and Vercel;
