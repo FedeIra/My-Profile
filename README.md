@@ -35,37 +35,45 @@ Back end developer for marketplaces and e-commerce projects working with Typescr
 - Development of a service to synchronize order statuses between the e-commerce platform and the client's ERP system.
 
 ### Personal Projects
-Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project". Some of my fullstack projects are the following:
+Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project". Some of my projects are the following:
 
-1) KINEMA (https://kinema-entertainment.vercel.app/): Kinema is a movie and tv show streaming platform built with: Javascript, Node.js, Express.js, MongoDB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Email.js, Heroku//Railway and Vercel;
+1) KINEMA **([link](https://kinema-entertainment.vercel.app/)):** Kinema is a movie and tv show streaming platform.
+- **Technologies and tools:** Javascript, Node.js, Express.js, MongoDB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Email.js, Heroku//Railway and Vercel, SCRUM and Trello.
 
-2) GAMING & BEYOND (https://gamingweb.vercel.app/): G&B is a single page application for videogames content built with: Javascript, Typescript Node.js, Express.js//Fastify, postgreSQL and Sequelize// MongoDB and Moongose, HTML, React.js, Redux.js, CSS, Heroku//Railway and Vercel.
+2) GAMING & BEYOND **([link](https://gamingweb.vercel.app/)):** G&B is a single page application for videogames content.
+- **Technologies and tools:** Javascript, Typescript Node.js, Express.js//Fastify, postgreSQL and Sequelize// MongoDB and Moongose, HTML, React.js, Redux.js, CSS, Heroku//Railway and Vercel.
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
-3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+3) PORFOLIO **([link](https://portfolio-fedeira.vercel.app)):** A personal portfolio showcasing my projects and experience.
+- **Technologies and tools:** Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 https://github.com/FedeIra/My-Profile/assets/93743323/43e36c3f-350b-4626-b44a-086a669c7637
 
-4) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+4) WEATHER CHANNEL **([link](https://project-weather-fi.vercel.app)):** A weather forecasting application.
+- **Technologies and tools:** Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 https://github.com/FedeIra/My-Profile/assets/93743323/e829aba4-ad25-4ae6-8f34-f373523785e2
 
-5) ONLINE RESUME (http://fedeira.xyz/): built with AWS S3, AWS Route53, HTML and CSS.
+5) ONLINE RESUME **([link](http://fedeira.xyz/)):** An online resume.
+- **Technologies and tools:** AWS S3, AWS Route53, HTML and CSS.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/d89145d0-0c9d-403a-a190-9febb8ea2227)
 
-6) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+6) CALCULATOR **([link](http://fedeira.xyz/](https://calculator-project-fedeira.vercel.app))):** A simple calculator application.
+- **Technologies and tools:** Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/72f45435-6e36-4913-b7eb-5a810a88cdff)
 
-7) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+7) MUG CLUB E-commerce **([link](https://calculator-project-fedeira.vercel.app](https://www.youtube.com/watch?v=ZcsY4dQkY8w))):** An e-commerce platform.
+- **Technologies and tools:** Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/32ff43a2-68ad-4a49-87cc-825e0dd62d19)
 
-8) LIQUIDATION: built with python. A backend project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+8) LIQUIDATION: A backend project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+- **Technologies and tools:** Python
 
-You can check out my projects in my portolfio 👜 https://portfolio-fedeira.vercel.app
+You can check out my projects in my portolfio 👜 **([portfolio](https://portfolio-fedeira.vercel.app)):**
 
 ### Contact Me
 - 📧 Email: [fedeirar@gmail.com](mailto:fedeirar@gmail.com)
