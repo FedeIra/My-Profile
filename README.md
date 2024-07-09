@@ -23,7 +23,8 @@ I am a passionate Full Stack Web Developer specializing in backend development w
 🎙️**Languages**: Spanish (native) and English (C2 Proficient).
 
 ### Experience
-ITGLOBERS (February 2023 - Present)
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/68e20e60-ada3-4045-ad01-d46255646a4f) ITGLOBERS (February 2023 - Present)
+
 Back end developer for marketplaces and e-commerce projects working with Typescript, Node.js, Express.js, Koa.js, API's, and VTEX IO. Notable projects include:
 
 - Design and development of a solution for data synchronization between two storage systems.
