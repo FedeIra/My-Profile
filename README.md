@@ -43,29 +43,33 @@ Please note that all my repositories ending with "Learning" are not projects, bu
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
-3) PORFOLIO (https://portfo
+3) PORFOLIO (https://portfolio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
 https://github.com/FedeIra/My-Profile/assets/93743323/43e36c3f-350b-4626-b44a-086a669c7637
 
-lio-fedeira.vercel.app): built with Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+4) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
-4) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+https://github.com/FedeIra/My-Profile/assets/93743323/e829aba4-ad25-4ae6-8f34-f373523785e2
 
-5) WEATHER CHANNEL (https://project-weather-fi.vercel.app): built with Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+5) ONLINE RESUME (http://fedeira.xyz/): built with AWS S3, AWS Route53, HTML and CSS.
 
-6) ONLINE RESUME (http://fedeira.xyz/): built with AWS S3, AWS Route53, HTML and CSS.
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/d89145d0-0c9d-403a-a190-9febb8ea2227)
 
-7) LIQUIDATION: built with python. A simple project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
+6) CALCULATOR (https://calculator-project-fedeira.vercel.app): built with Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
 
-8) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/72f45435-6e36-4913-b7eb-5a810a88cdff)
+
+7) MUG CLUB E-commerce (https://www.youtube.com/watch?v=ZcsY4dQkY8w): built with Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+
+![image](https://github.com/FedeIra/My-Profile/assets/93743323/32ff43a2-68ad-4a49-87cc-825e0dd62d19)
+
+8) LIQUIDATION: built with python. A backend project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
 
 You can check out my projects in my portolfio 👜 https://portfolio-fedeira.vercel.app
 
 ### Contact Me
 - 📧 Email: [fedeirar@gmail.com](mailto:fedeirar@gmail.com)
 - 📱 Phone: +54 9 1167887879
-
-
 
 ### Connect with Me
 <p align="left">
