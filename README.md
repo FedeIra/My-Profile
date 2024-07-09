@@ -7,20 +7,20 @@ I am a passionate Full Stack Web Developer specializing in backend development w
 
 ### Skills and technologies:
 
-🖥️**Back-end**: JavaScript | Typescript | Node.js | Express.js | Fastify | Koa.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize;
+🖥️**Back-end**: JavaScript | Typescript | Node.js | Express.js | Fastify | Koa.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize.
 
-📱**Front-end**: React | Redux | HTML | CSS | Chakra UI | Bootstrap;
+📱**Front-end**: React | Redux | HTML | CSS | Chakra UI | Bootstrap.
 
-☁️**Cloud services**: AWS S3 | Firebase | MongoDB Atlas
+☁️**Cloud services**: AWS S3 | Firebase | MongoDB Atlas.
 
 🛠️**Development tools**:
-  - **Version Control:** Git, GitHub
-  - **Deployment Platforms:** Vercel, Railway and Heroku
-  - **E-commerce platforms:** VTEX.IO
-  - **Utilities:** Docker, Email.js, Canva
-  - **Project Management:** SCRUM, Trello and JIRA
+  - **Version Control:** Git | GitHub.
+  - **Deployment Platforms:** Vercel | Railway | Heroku.
+  - **E-commerce platforms:** VTEX.IO.
+  - **Utilities:** Docker, Email.js | Canva.
+  - **Project Management:** SCRUM | Trello | JIRA.
 
-🎙️**Languages**: Spanish (native) and English (C2 Proficient).
+🎙️**Languages**: Spanish (native) | English (C2 Proficient).
 
 ### Experience
 ITGLOBERS (February 2023 - Present)
