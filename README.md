@@ -93,3 +93,6 @@ You can check out my projects in my portolfio 👜 **([portfolio](https://portfo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fedeira&show_icons=true&theme=algolia" alt="fedeira" />
 </p>
+
+### Coding Activity
+[![wakatime](https://wakatime.com/badge/user/fedeirar@gmail.com.svg)](https://wakatime.com/@fedeirar@gmail.com)
