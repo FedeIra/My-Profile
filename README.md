@@ -3,79 +3,79 @@
 ## Hi there 👋, I'm Federico Irarrazaval
 
 ### About Me
-I am a passionate Full Stack Web Developer specializing in backend development with Node.js. Over the past year and a half, I've honed my skills in creating high-quality, responsive, and dynamic products. While my expertise lies in backend technologies, I also have a strong foundation in frontend development with React, ensuring a seamless and complete development experience.
+I am a Backend & Full Stack Developer passionate about building scalable and high-performance applications. My expertise lies in backend development with Node.js and TypeScript, where I focus on designing and optimizing APIs, microservices, and cloud-based solutions. Additionally, I have experience in frontend technologies like React, allowing me to develop full stack applications when needed.
+
+I enjoy solving complex backend challenges, designing scalable architectures, and optimizing performance in cloud-based environments. I actively contribute to task organization, responsibility assignment, and workflow optimization in development teams.
 
 ### Skills and technologies:
 
-🖥️**Back-end**: JavaScript | Typescript | Node.js | Express.js | Fastify | Koa.js | JSON | API's | MongoDB | Mongoose | PostgreSQL | Sequelize.
+🖥️ Backend: Node.js, TypeScript, Fastify, Express.js, Koa.js, PostgreSQL, Sequelize, MongoDB, Mongoose, REST APIs.
 
-📱**Front-end**: React | Redux | HTML | CSS | Chakra UI | Bootstrap.
+📱 Frontend: React, Redux, HTML, CSS, Bootstrap, Chakra UI.
 
-☁️**Cloud services**: AWS S3 | Firebase | MongoDB Atlas.
+☁️ Cloud Services: AWS (Lambda, S3, DynamoDB, CloudWatch, SES), Firebase, MongoDB Atlas.
 
-🛠️**Development tools**:
-  - **Version Control:** Git | GitHub.
-  - **Deployment Platforms:** Vercel | Railway | Heroku.
-  - **E-commerce platforms:** VTEX.IO.
-  - **Utilities:** Docker, Email.js | Canva.
-  - **Project Management:** SCRUM | Trello | JIRA.
+🛠️ Development Tools:
 
-🎙️**Languages**: Spanish (native) | English (C2 Proficient).
+- Version Control: Git | GitHub
+- Deployment Platforms: Vercel | Railway | Heroku
+- Project Management: SCRUM | Trello | JIRA
+
+🎙️ Languages: Spanish (Native) | English (C2 Proficient)
 
 ### Experience
-ITGLOBERS (February 2023 - Present)
+ITGLOBERS (June 2022 - Present)
 
-Back end developer for marketplaces and e-commerce projects working with Typescript, Node.js, Express.js, Koa.js, API's, and VTEX IO. Notable projects include:
+Backend development for marketplaces, e-commerce, and other services, building scalable APIs and microservices using Node.js, TypeScript, PostgreSQL, MongoDB, and AWS. Experienced in taking leadership roles within projects, proactively assigning tasks, organizing workflows, and ensuring efficient development processes. Strong background in integrating e-commerce platforms like VTEX IO and designing robust and scalable architectures.
 
-- Design and development of a solution for data synchronization between two storage systems.
-- Integration of JIRA with Google Forms for workflow automation.
-- Development of integration solutions between VTEX e-commerce and payment provider systems. Contributed as a back-end developer and leader of the payments development team.
-- Audit of architecture, integrations, and custom applications for e-commerce optimization.
-- Development and migration to documents uploading using Google Cloud Storage buckets with PHP.
-- Development of a service to synchronize order statuses between the e-commerce platform and the client's ERP system.
+🔹 Proactive leadership in backend development, facilitating task management, work organization, and team coordination.
+🔹 Development of RESTful APIs for system integrations using Koa.js, Express.js, and Fastify.
+🔹 Implementation of secure authentication and authorization with JWT and OAuth2.
+🔹 Performance and scalability optimization in cloud environments, including enhancements and integrations in serverless architectures with AWS Lambda, S3, DynamoDB, and CloudWatch.
+🔹 Design and development of scalable architectures, following best practices and clean architecture.
 
 ### Personal Projects
-Please note that all my repositories ending with "Learning" are not projects, but notes and code that I wrote down while learning certain technologies. All my repository projects are listed with "Project". Some of my projects are the following:
+⚡ Note: Repositories ending with "Learning" contain notes and practice code, while repositories labeled "Project" are actual applications.
 
-1) KINEMA **([link](https://kinema-entertainment.vercel.app/)):** Kinema is a movie and tv show streaming platform.
-- **Technologies and tools:** Javascript, Node.js, Express.js, MongoDB, HTML, React.js, Redux.js, CSS, Chakra UI, Cloudinary, Firebase, Email.js, Heroku//Railway and Vercel, SCRUM and Trello.
+1) KINEMA **([link](https://kinema-entertainment.vercel.app/)):** A movie and TV show streaming platform.
+🛠 Stack: JavaScript, Node.js, Express.js, MongoDB, React, Redux, Chakra UI, Cloudinary, Firebase, Railway, Vercel.
 
-2) GAMING & BEYOND **([link](https://gamingweb.vercel.app/)):** G&B is a single page application for videogames content.
-- **Technologies and tools:** Javascript, Typescript Node.js, Express.js//Fastify, postgreSQL and Sequelize// MongoDB and Moongose, HTML, React.js, Redux.js, CSS, Heroku//Railway and Vercel.
+2) GAMING & BEYOND **([link](https://gamingweb.vercel.app/)):** A single-page app for video game content.
+🛠 Stack: TypeScript, Node.js, Fastify, PostgreSQL, MongoDB, React, Redux, Railway, Vercel.
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
 
-3) PORFOLIO **([link](https://portfolio-fedeira.vercel.app)):** A personal portfolio showcasing my projects and experience.
-- **Technologies and tools:** Javascript, MongoDB, Moongose, Email.js, AWS S3, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+3) PORFOLIO **([link](https://portfolio-fedeira.vercel.app)):** My personal portfolio showcasing my work.
+🛠 Stack: JavaScript, MongoDB, Email.js, AWS S3, React, Bootstrap, Chakra UI, Vercel.
 
 https://github.com/FedeIra/My-Profile/assets/93743323/43e36c3f-350b-4626-b44a-086a669c7637
 
-4) WEATHER CHANNEL **([link](https://project-weather-fi.vercel.app)):** A weather forecasting application.
-- **Technologies and tools:** Javascript, Node.Js, Express.js, HTML, React.js, Redux, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+4) WEATHER CHANNEL **([link](https://project-weather-fi.vercel.app)):** A weather forecasting app.
+🛠 Stack: Node.js, Express.js, React, Redux, Bootstrap, Chakra UI, Vercel.
 
 https://github.com/FedeIra/My-Profile/assets/93743323/e829aba4-ad25-4ae6-8f34-f373523785e2
 
-5) ONLINE RESUME **([link](http://fedeira.xyz/)):** An online resume.
-- **Technologies and tools:** AWS S3, AWS Route53, HTML and CSS.
+5) ONLINE RESUME **([link](http://fedeira.xyz/)):** An online resume hosted on AWS.
+🛠 Stack: AWS S3, AWS Route53, HTML, CSS.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/d89145d0-0c9d-403a-a190-9febb8ea2227)
 
 6) CALCULATOR **([link](http://fedeira.xyz/](https://calculator-project-fedeira.vercel.app))):** A simple calculator application.
-- **Technologies and tools:** Javascript, HTML, React.js, Bootstrap, Chakra.UI, CSS, Railway and Vercel.
+🛠 Stack: JavaScript, React, Bootstrap, Chakra UI, CSS, Railway, Vercel.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/72f45435-6e36-4913-b7eb-5a810a88cdff)
 
-7) MUG CLUB E-commerce **([link](https://calculator-project-fedeira.vercel.app](https://www.youtube.com/watch?v=ZcsY4dQkY8w))):** An e-commerce platform.
-- **Technologies and tools:** Shopify, HTML and CSS. I don't have a repository for this project since it was fully built with shoppify platform.
+7) MUG CLUB E-commerce **([link](https://calculator-project-fedeira.vercel.app](https://www.youtube.com/watch?v=ZcsY4dQkY8w))):** An e-commerce platform built entirely on Shopify.
+🛠 Stack: Shopify, HTML, CSS. (No repository available since it was built fully within Shopify.)
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/32ff43a2-68ad-4a49-87cc-825e0dd62d19)
 
-8) LIQUIDATION: A backend project that by interacting with the terminal you can draft a fully detailed calculation for termination with cause in Argentina.
-- **Technologies and tools:** Python
+8) LIQUIDATION: A backend project that calculates severance payments for termination with cause in Argentina via terminal commands.
+🛠 Stack: Python
 
-You can check out my projects in my portolfio 👜 **([portfolio](https://portfolio-fedeira.vercel.app)):**
+🔹 Check out all my projects here 👜: **([portfolio](https://portfolio-fedeira.vercel.app)):**
 
-### Contact Me
+### 📬 Contact Me
 - 📧 Email: [fedeirar@gmail.com](mailto:fedeirar@gmail.com)
 - 📱 Phone: +54 9 1167887879
 
