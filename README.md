@@ -1,4 +1,4 @@
-![image](https://github.com/FedeIra/My-Profile/assets/93743323/16fdaea4-4d87-4c03-9a9b-2ec4fd43a46f)
+![image](https://github.com/user-attachments/assets/0d22c4ac-b5cf-4e22-9325-b2452ceb83ea)
 
 ## Hi there 👋, I'm Federico Irarrazaval
 
