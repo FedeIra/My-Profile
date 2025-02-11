@@ -24,15 +24,20 @@ I enjoy solving complex backend challenges, designing scalable architectures, an
 🎙️ Languages: Spanish (Native) | English (C2 Proficient)
 
 ### Experience
-ITGLOBERS (June 2022 - Present)
+##### ITGLOBERS (June 2022 - Present)
 
 Backend development for marketplaces, e-commerce, and other services, building scalable APIs and microservices using Node.js, TypeScript, PostgreSQL, MongoDB, and AWS. Experienced in taking leadership roles within projects, proactively assigning tasks, organizing workflows, and ensuring efficient development processes. Strong background in integrating e-commerce platforms like VTEX IO and designing robust and scalable architectures.
 
 🔹 Proactive leadership in backend development, facilitating task management, work organization, and team coordination.
+
 🔹 Development of RESTful APIs for system integrations using Koa.js, Express.js, and Fastify.
+
 🔹 Implementation of secure authentication and authorization with JWT and OAuth2.
+
 🔹 Performance and scalability optimization in cloud environments, including enhancements and integrations in serverless architectures with AWS Lambda, S3, DynamoDB, and CloudWatch.
+
 🔹 Design and development of scalable architectures, following best practices and clean architecture.
+
 
 ### Personal Projects
 ⚡ Note: Repositories ending with "Learning" contain notes and practice code, while repositories labeled "Project" are actual applications.
