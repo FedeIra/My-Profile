@@ -40,7 +40,7 @@ Backend development for marketplaces, e-commerce, and other services, building s
 1) KINEMA **([link](https://kinema-entertainment.vercel.app/)):** A movie and TV show streaming platform.
 🛠 Stack: JavaScript, Node.js, Express.js, MongoDB, React, Redux, Chakra UI, Cloudinary, Firebase, Railway, Vercel.
 
-2) GAMING & BEYOND **([link]([https://gamingweb.vercel.app/](https://gaming-beyond-v2.vercel.app/))):** A single-page app for video game content.
+2) GAMING & BEYOND **([link](https://gamingweb.vercel.app/)):** A single-page app for video game content.
 🛠 Stack: TypeScript, Node.js, Fastify, PostgreSQL, MongoDB, React, Redux, Railway, Vercel.
 
 https://user-images.githubusercontent.com/93743323/200690990-41f10a97-5262-4ccd-b519-4ff4a2355f1a.mp4
