@@ -65,7 +65,7 @@ https://github.com/FedeIra/My-Profile/assets/93743323/e829aba4-ad25-4ae6-8f34-f3
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/72f45435-6e36-4913-b7eb-5a810a88cdff)
 
-7) MUG CLUB E-commerce **([link](https://www.youtube.com/watch?v=ZcsY4dQkY8w&ab_channel=FedericoIrarrazaval)):** An e-commerce platform built entirely on Shopify. https://www.youtube.com/watch?v=ZcsY4dQkY8w&ab_channel=FedericoIrarrazaval
+7) MUG CLUB E-commerce **([link](https://www.youtube.com/watch?v=ZcsY4dQkY8w&ab_channel=FedericoIrarrazaval)):** An e-commerce platform built entirely on Shopify.
 🛠 Stack: Shopify, HTML, CSS. (No repository available since it was built fully within Shopify.)
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/32ff43a2-68ad-4a49-87cc-825e0dd62d19)
