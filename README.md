@@ -60,7 +60,7 @@ https://github.com/FedeIra/My-Profile/assets/93743323/e829aba4-ad25-4ae6-8f34-f3
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/d89145d0-0c9d-403a-a190-9febb8ea2227)
 
-6) CALCULATOR **([link](http://fedeira.xyz/](https://calculator-project-fedeira.vercel.app))):** A simple calculator application.
+6) CALCULATOR **([link](https://calculator-project-fedeira.vercel.app/)):** A simple calculator application.
 🛠 Stack: JavaScript, React, Bootstrap, Chakra UI, CSS, Railway, Vercel.
 
 ![image](https://github.com/FedeIra/My-Profile/assets/93743323/72f45435-6e36-4913-b7eb-5a810a88cdff)
